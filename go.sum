@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+gitlab.com/gomidi/midi/v2 v2.2.14 h1:d4oc4mKAPf5lQvQQcwAW8libGNrBbsBWi6B3W6o7S4M=
+gitlab.com/gomidi/midi/v2 v2.2.14/go.mod h1:ENtYaJPOwb2N+y7ihv/L7R4GtWjbknouhIIkMrJ5C0g=
